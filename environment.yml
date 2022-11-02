@@ -1,0 +1,14 @@
+name: pa3
+
+channels:
+  - conda-forge
+
+dependencies:
+  - pip
+  - scikit-learn
+  - networkx
+  - jupyterlab
+  - ipycytoscape
+  - ipywidgets
+  - pandas
+  - numpy
